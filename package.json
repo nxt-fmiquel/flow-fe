@@ -1,0 +1,19 @@
+{
+  "name": "@nexthink/flow-fe",
+  "version": "2.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nxt-fmiquel/flow-fe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nxt-fmiquel/flow-fe/issues"
+  },
+  "homepage": "https://github.com/nxt-fmiquel/flow-fe#readme",
+  "description": ""
+}
